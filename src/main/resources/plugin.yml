@@ -1,0 +1,8 @@
+name: wildSK
+version: ${project.version}
+main: normal.wild.wildSK
+api-version: 1.16
+depend: [Skript]
+commands:
+  boast:
+    aliases: [자랑, 아이템자랑, 아이템]
